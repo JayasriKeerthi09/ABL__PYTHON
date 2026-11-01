@@ -1,7 +1,11 @@
  NAME:VISWANADHARAO JAYASRI KEERTHI
+ 
 BRANCH: CSM
+
 SECTION: 3
+
 TITLES OF 10 SELECTED CASE STUDIES :
+
 1.University Scholarship Allocation: Design a system that evaluates applicants using aggregate marks, subject-wise minimum scores, attendance, and income criteria, ranks eligible students, and resolves ties using predefined rules. 
 2.Progressive Electricity Billing: Calculate household bills using multiple consumption slabs, fixed charges, surcharges, and rebates, then compare bills across several months and identify unusual increases. 
 3.Employee Payroll and Deduction Analysis: Calculate gross salary from basic pay, allowances, overtime, and incentives; apply progressive deductions and generate a formatted salary statement
